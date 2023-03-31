@@ -1,0 +1,17 @@
+body{
+  background-color: #3F0071;
+}
+
+#top{
+  background-color: #FB2576;
+}
+
+.list-group-item{
+  background-color: #332FD0;
+  color: rgb(223, 220, 220);
+}
+
+.checked {
+  background-color: #0002A1;    
+  text-decoration: line-through;
+}
